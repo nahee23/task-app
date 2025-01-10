@@ -46,4 +46,4 @@
 
         각 할 일 항목에서 삭제 버튼을 클릭하면 해당 할 일이 목록에서 제거됩니다.
 
-[배포주소](https://movie-app-nahee23.netlify.app/)
+[배포주소](https://task-app-nahee23.netlify.app/)
